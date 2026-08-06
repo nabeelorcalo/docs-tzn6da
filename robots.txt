@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://wiki-az33mw.date-me.pro/sitemap.xml
